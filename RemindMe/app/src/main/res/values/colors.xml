@@ -3,4 +3,6 @@
     <color name="colorPrimary">#9C9FAC</color>
     <color name="colorPrimaryDark">#7E7F88</color>
     <color name="mainBackground">#9FB5FC</color>
+    <color name="color_white">#FFFFFF</color>
+
 </resources>
